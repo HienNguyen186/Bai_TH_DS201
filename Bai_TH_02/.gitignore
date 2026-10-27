@@ -1,0 +1,5 @@
+VinaFood21/
+VinaFood21_cache320/
+outputs/**/best.pt
+__pycache__/
+*.crdownload
